@@ -18,9 +18,9 @@
 | CO5 | Develop and deploy web applications | 
 
 #### Done By:
--[PILLIMETLA VAMSI - CB.EN.U4CYS22047](https://pillimetlavamsi.github.io)
+-[PILLIMETLA VAMSI - CB.EN.U4CYS22047](https://github.com/pillimetlavamsi)
 
--[YALLANURU KISHAN SAI - CB.EN.U4CYS22064](https://kishansaiyallanuru.github.io)
+-[YALLANURU KISHAN SAI - CB.EN.U4CYS22064](https://github.com/kishansaiyallanuru)
 
 #### Quick Refreshers
 
